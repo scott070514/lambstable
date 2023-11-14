@@ -2838,13 +2838,6 @@ body {
   display: flex;
 }
 
-.footer-brand {
-  background-image: url('../images/SDFDSDADASDS.png');
-  background-position: 50%;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
 .footer-content {
   grid-column-gap: 50px;
   grid-row-gap: 40px;
