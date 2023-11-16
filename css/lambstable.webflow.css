@@ -249,6 +249,20 @@ body {
   color: var(--black);
 }
 
+.title._11 {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.title._11._1 {
+  color: #000;
+  margin-bottom: 0;
+  padding-left: 10px;
+  font-size: 22px;
+  font-weight: 700;
+}
+
 .small-title {
   color: #fff;
   letter-spacing: 2px;
@@ -4254,7 +4268,7 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .location {
@@ -4970,6 +4984,71 @@ body {
   color: var(--black);
   text-align: left;
   margin-bottom: 40px;
+}
+
+.text-block-95 {
+  color: #ff6f00;
+  margin-left: 3px;
+  font-family: Lato, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.section-15 {
+  width: 100%;
+  height: auto;
+  filter: grayscale();
+  background-image: linear-gradient(rgba(0, 0, 0, .61), rgba(0, 0, 0, .61)), url('../images/SFSDADSDSAD.png');
+  background-position: 0 0, 50% 80%;
+  background-size: auto, cover;
+}
+
+.div-block-123252 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.div-block-123253 {
+  width: 600px;
+  height: auto;
+  background-color: #fff;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.div-block-123254 {
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  display: flex;
+}
+
+.div-block-123254-copy {
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  display: flex;
+}
+
+.div-block-123255 {
+  width: 20px;
+  height: 20px;
+  background-image: url('../images/phone-call-3.png');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.div-block-123255-copy {
+  width: 20px;
+  height: 20px;
+  background-image: url('../images/envelope-1.png');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media screen and (min-width: 1440px) {
